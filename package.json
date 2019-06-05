@@ -1,0 +1,23 @@
+{
+  "name": "rpgtool.com",
+  "version": "1.0.0",
+  "description": "website holding tools for role playing games",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avernous/rpgtool.com.git"
+  },
+  "author": "Connor J. Fouks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avernous/rpgtool.com/issues"
+  },
+  "homepage": "https://github.com/Avernous/rpgtool.com#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
